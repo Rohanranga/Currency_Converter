@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 UI of Currency converter 
 
-![Currency Converter Screenshot](https://github.com/yourusername/your-repo-name/blob/main/path/to/currencyconverter.jpg)
+![Currency Converter Screenshot](https://github.com/Rohanranga/Currency_Converter/blob/master/currencyconverter.jpg)
