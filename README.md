@@ -28,7 +28,7 @@ This **Currency Converter App** is a simple and efficient tool for converting be
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Rohanranga/currency_converter.git
+   git clone https://github.com/Rohanranga/Currency_Converter.git
    cd currency-converter-app
    ```
 
